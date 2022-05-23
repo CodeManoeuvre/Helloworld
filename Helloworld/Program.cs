@@ -7,7 +7,7 @@ namespace Helloworld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.ReadKey();//Preveents the console from closing qickly
+            Console.ReadKey();//Prevents the console from closing quickly
 
         }
     }
